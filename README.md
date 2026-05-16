@@ -1,11 +1,10 @@
+<img width="980" height="535" alt="c" src="https://github.com/user-attachments/assets/e694bac3-8ea1-427a-8d9b-62c9ec565ed1" />
 # AWS & Splunk SOC Lab
 
 This project is a step-by-step guide to building a secure cybersecurity cloud lab in AWS. It connects an offensive attacking environment with defensive monitoring tools.
 
 ## 🗺️ Lab Architecture
 Here is how the network, firewalls, and data logging streams are set up across the cloud:
-
-![AWS Splunk SOC Lab Architecture](c.jpg)
 
 ## 🚀 How It Works
 The lab separates the attack target from the monitoring station to mirror a real enterprise network:
