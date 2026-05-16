@@ -22,3 +22,5 @@ The lab separates the attack target from the monitoring station to mirror a real
 ## 📂 Download the Full Guide
 The complete manual has all the step-by-step screenshots, firewall rules, and exact terminal commands you need to build this yourself:
 
+## Video:
+https://www.linkedin.com/posts/gurunanakadhikari_aws-security-lab-i-built-a-security-lab-in-ugcPost-7461451066044289024-3EG-?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEtEqhwBtd9Rjbr84IsWwWRE8ExCL1UNzXU
